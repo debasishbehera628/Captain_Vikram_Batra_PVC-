@@ -3,7 +3,7 @@ body{
     margin: 0px;
 }
 .main_header{
-    background: white url(../Captain_Vikram_Batra/img/319859.jpg) no-repeat scroll top;
+    background: white url(./img/319859.jpg) no-repeat scroll top;
     padding: 8px;
     background-size: cover;
     font-size: 25px;
@@ -109,7 +109,7 @@ figure{
     text-align: center;
 }
 footer{
-    background: white url(../Captain_Vikram_Batra/img/abg.jpg) no-repeat scroll center;
+    background: white url(./img/abg.jpg) no-repeat scroll center;
     background-size: cover;
     text-align: center;
     padding: 10px;
